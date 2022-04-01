@@ -33,6 +33,10 @@ Constraints:
     1 <= haystack.length, needle.length <= 104
     haystack and needle consist of only lowercase English characters.
 
+Success
+Details
+Runtime: 42 ms, faster than 84.87% of Python3 online submissions for Implement strStr().
+Memory Usage: 14 MB, less than 99.75% of Python3 online submissions for Implement strStr().
 '''
 
 class Solution:
